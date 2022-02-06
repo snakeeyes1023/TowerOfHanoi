@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT47M41.6682673S" SolutionTotalViewTime="PT1H21M3.1885986S" SolutionTotalDebugTime="PT0S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi</SolutionFolder>
+  <SolutionCreattionDate>2022-02-03T13:43:03.9075477-05:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:42:59.1444627-05:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT3M28.6052326S" EditActiveTime="PT2M20.3432838S">
+      <ModifiedDate>2022-02-03T15:02:59.9073824-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Disk.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:47:14.1726529-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.0706467S" EditActiveTime="PT3M44.0523613S">
+      <ModifiedDate>2022-02-03T14:28:12.6587225-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Disk.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:44:23.4239364-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT46M18.3795114S" EditActiveTime="PT16M46.3912791S">
+      <ModifiedDate>2022-02-03T15:41:08.4641431-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Game.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T14:06:03.0513106-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M19.3765989S" EditActiveTime="PT8M16.3337889S">
+      <ModifiedDate>2022-02-03T15:40:59.438184-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Game.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:50:42.0963863-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17M26.1199513S" EditActiveTime="PT8M27.289158S">
+      <ModifiedDate>2022-02-03T15:35:48.4472482-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Tower.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:53:25.6166305-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M12.2011506S" EditActiveTime="PT4M35.2583284S">
+      <ModifiedDate>2022-02-03T14:05:27.5561155-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Tower.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:50:21.4839481-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8M9.4674432S" EditActiveTime="PT3M31.9950586S">
+      <ModifiedDate>2022-02-03T15:42:12.6606592-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:43:03.925501-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT3M28.6052326S" EditActiveTime="PT2M20.3432838S">
+      <ModifiedDate>2022-02-03T15:02:59.9073824-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Disk.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:47:14.1726529-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.0706467S" EditActiveTime="PT3M44.0523613S">
+      <ModifiedDate>2022-02-03T14:28:12.6587225-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Disk.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:44:23.4239364-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT46M18.3795114S" EditActiveTime="PT16M46.3912791S">
+      <ModifiedDate>2022-02-03T15:41:08.4641431-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Game.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T14:06:03.0513106-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M19.3765989S" EditActiveTime="PT8M16.3337889S">
+      <ModifiedDate>2022-02-03T15:40:59.438184-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Game.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:50:42.0963863-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17M26.0929901S" EditActiveTime="PT8M27.289158S">
+      <ModifiedDate>2022-02-03T15:35:48.4472482-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Tower.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:53:25.6166305-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M12.2011506S" EditActiveTime="PT4M35.2583284S">
+      <ModifiedDate>2022-02-03T14:05:27.5561155-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Tower.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:50:21.4839481-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8M9.4674432S" EditActiveTime="PT3M31.9950586S">
+      <ModifiedDate>2022-02-03T15:42:12.6606592-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:43:03.925501-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT46M18.3795114S" EditActiveTime="PT16M46.3912791S">
+      <ModifiedDate>2022-02-03T15:41:08.4641431-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Game.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T14:06:03.0513106-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17M26.0929901S" EditActiveTime="PT8M27.289158S">
+      <ModifiedDate>2022-02-03T15:35:48.4472482-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Tower.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:53:25.6166305-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M19.3765989S" EditActiveTime="PT8M16.3337889S">
+      <ModifiedDate>2022-02-03T15:40:59.438184-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Game.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:50:42.0963863-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M12.2011506S" EditActiveTime="PT4M35.2583284S">
+      <ModifiedDate>2022-02-03T14:05:27.5561155-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Tower.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:50:21.4839481-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M28.6052326S" EditActiveTime="PT2M20.3432838S">
+      <ModifiedDate>2022-02-03T15:02:59.9073824-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Disk.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:47:14.1726529-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.0706467S" EditActiveTime="PT3M44.0523613S">
+      <ModifiedDate>2022-02-03T14:28:12.6587225-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\Disk.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:44:23.4239364-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8M9.4674432S" EditActiveTime="PT3M31.9950586S">
+      <ModifiedDate>2022-02-03T15:42:12.6606592-05:00</ModifiedDate>
+      <ModifiedBy>XPS</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\XPS\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.vcxproj</ProjectName>
+      <CreatedDate>2022-02-03T13:43:03.925501-05:00</CreatedDate>
+      <ViewedBy>XPS</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>

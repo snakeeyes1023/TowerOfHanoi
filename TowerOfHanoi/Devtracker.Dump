@@ -1,0 +1,23 @@
+
+
+2022-02-03 15:13:13 :
+System.ArgumentException: Connection point not found for given riid.
+   à Microsoft.VisualStudio.Editor.Implementation.ConnectionPointContainer.FindConnectionPoint(Guid& riid, IConnectionPoint& ppCP)
+   à Microsoft.VisualStudio.Editor.Implementation.TextDocData.FindConnectionPoint(Guid& riid, IConnectionPoint& ppCP)
+   à System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   à Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   à Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   à Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   à Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   à Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   à DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) dans C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:ligne 697
+
+2022-02-03 15:24:07 :
+System.Runtime.InteropServices.COMException (0x80004005): Erreur non spécifiée (Exception de HRESULT : 0x80004005 (E_FAIL))
+   à System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   à Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   à Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   à Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   à Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   à Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   à DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) dans C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:ligne 697
